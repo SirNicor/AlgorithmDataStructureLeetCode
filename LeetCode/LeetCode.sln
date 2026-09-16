@@ -59,6 +59,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrangingCoins", "Arranging
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestTimeToBuyAndSellStock", "BestTimeToBuyAndSellStock\BestTimeToBuyAndSellStock.csproj", "{58D6015B-4803-4881-A2D6-3E0F73D06F1C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectangleOverlap", "RectangleOverlap\RectangleOverlap.csproj", "{0E511EEB-0EDE-41EB-80A5-5432A8DB3E55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum2", "TwoSum2\TwoSum2.csproj", "{680A8873-AD96-4972-98B3-E5105AC7C541}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3Sum", "3Sum\3Sum.csproj", "{5049811A-D319-4337-81D1-E2C5D9FDEC38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainerWithMostWater", "ContainerWithMostWater\ContainerWithMostWater.csproj", "{8E76BD98-3F7E-4B96-A1BC-DDED1F8C19D0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -185,5 +193,21 @@ Global
 		{58D6015B-4803-4881-A2D6-3E0F73D06F1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58D6015B-4803-4881-A2D6-3E0F73D06F1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58D6015B-4803-4881-A2D6-3E0F73D06F1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E511EEB-0EDE-41EB-80A5-5432A8DB3E55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E511EEB-0EDE-41EB-80A5-5432A8DB3E55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E511EEB-0EDE-41EB-80A5-5432A8DB3E55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E511EEB-0EDE-41EB-80A5-5432A8DB3E55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{680A8873-AD96-4972-98B3-E5105AC7C541}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{680A8873-AD96-4972-98B3-E5105AC7C541}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{680A8873-AD96-4972-98B3-E5105AC7C541}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{680A8873-AD96-4972-98B3-E5105AC7C541}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5049811A-D319-4337-81D1-E2C5D9FDEC38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5049811A-D319-4337-81D1-E2C5D9FDEC38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5049811A-D319-4337-81D1-E2C5D9FDEC38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5049811A-D319-4337-81D1-E2C5D9FDEC38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E76BD98-3F7E-4B96-A1BC-DDED1F8C19D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E76BD98-3F7E-4B96-A1BC-DDED1F8C19D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E76BD98-3F7E-4B96-A1BC-DDED1F8C19D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E76BD98-3F7E-4B96-A1BC-DDED1F8C19D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
