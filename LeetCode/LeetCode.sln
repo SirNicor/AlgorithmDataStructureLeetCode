@@ -75,6 +75,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindSubarraysWithEqualSum",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindTwoNonoverlappingSubarraysWithTargetSum", "FindTwoNonoverlappingSubarraysWithTargetSum\FindTwoNonoverlappingSubarraysWithTargetSum.csproj", "{383FF482-1622-4E97-875B-2998F325712C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3SumClosest", "3SumClosest\3SumClosest.csproj", "{CBBB5477-C5BB-463F-B52E-CEBFB5FCA1BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumAverageSubarray1", "MaximumAverageSubarray1\MaximumAverageSubarray1.csproj", "{C164C98C-35DC-4FD3-B52C-63B38DA5BAB4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -233,5 +237,13 @@ Global
 		{383FF482-1622-4E97-875B-2998F325712C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{383FF482-1622-4E97-875B-2998F325712C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{383FF482-1622-4E97-875B-2998F325712C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBBB5477-C5BB-463F-B52E-CEBFB5FCA1BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBBB5477-C5BB-463F-B52E-CEBFB5FCA1BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBBB5477-C5BB-463F-B52E-CEBFB5FCA1BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBBB5477-C5BB-463F-B52E-CEBFB5FCA1BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C164C98C-35DC-4FD3-B52C-63B38DA5BAB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C164C98C-35DC-4FD3-B52C-63B38DA5BAB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C164C98C-35DC-4FD3-B52C-63B38DA5BAB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C164C98C-35DC-4FD3-B52C-63B38DA5BAB4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
