@@ -79,6 +79,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3SumClosest", "3SumClosest\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumAverageSubarray1", "MaximumAverageSubarray1\MaximumAverageSubarray1.csproj", "{C164C98C-35DC-4FD3-B52C-63B38DA5BAB4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseDegreeofaString", "ReverseDegreeofaString\ReverseDegreeofaString.csproj", "{807E5F81-712A-4BBC-92EF-B13B37EE0FDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumWindowSubstring", "MinimumWindowSubstring\MinimumWindowSubstring.csproj", "{C0883F0A-AC02-47DB-A786-E85816414786}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -245,5 +249,13 @@ Global
 		{C164C98C-35DC-4FD3-B52C-63B38DA5BAB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C164C98C-35DC-4FD3-B52C-63B38DA5BAB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C164C98C-35DC-4FD3-B52C-63B38DA5BAB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{807E5F81-712A-4BBC-92EF-B13B37EE0FDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{807E5F81-712A-4BBC-92EF-B13B37EE0FDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{807E5F81-712A-4BBC-92EF-B13B37EE0FDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{807E5F81-712A-4BBC-92EF-B13B37EE0FDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0883F0A-AC02-47DB-A786-E85816414786}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0883F0A-AC02-47DB-A786-E85816414786}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0883F0A-AC02-47DB-A786-E85816414786}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0883F0A-AC02-47DB-A786-E85816414786}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
