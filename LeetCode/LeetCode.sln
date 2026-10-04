@@ -95,6 +95,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenerateParentheses", "Gene
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestValidParentheses", "LongestValidParentheses\LongestValidParentheses.csproj", "{9422C0FF-6B92-428C-B09E-FDFE29D7110D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidParenthesisString", "ValidParenthesisString\ValidParenthesisString.csproj", "{052B3BDE-E3EE-47ED-AF54-E3B489D57A47}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -293,5 +295,9 @@ Global
 		{9422C0FF-6B92-428C-B09E-FDFE29D7110D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9422C0FF-6B92-428C-B09E-FDFE29D7110D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9422C0FF-6B92-428C-B09E-FDFE29D7110D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{052B3BDE-E3EE-47ED-AF54-E3B489D57A47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{052B3BDE-E3EE-47ED-AF54-E3B489D57A47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{052B3BDE-E3EE-47ED-AF54-E3B489D57A47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{052B3BDE-E3EE-47ED-AF54-E3B489D57A47}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
